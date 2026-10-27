@@ -1,0 +1,265 @@
+{
+  "floors": [
+    {
+      "number": 8,
+      "name": "Tầng 8",
+      "images": [
+        {
+          "src": "11_hành lang t8.2.png",
+          "title": "hành lang t8.2",
+          "timestamp": "2026-09-30 23:59:46"
+        },
+        {
+          "src": "09_cầu thang, hành lang t8-9-7.1.png",
+          "title": "cầu thang, hành lang t8-9-7.1",
+          "timestamp": "2026-10-01 00:02:30"
+        },
+        {
+          "src": "06_cầu thang 7,5-8-9.1.png",
+          "title": "cầu thang 7,5-8-9.1",
+          "timestamp": "2026-10-01 00:06:02"
+        },
+        {
+          "src": "10_hành lang t8.1.png",
+          "title": "hành lang t8.1",
+          "timestamp": "2026-10-01 00:08:50"
+        },
+        {
+          "src": "12_hành lang t8.3.png",
+          "title": "hành lang t8.3",
+          "timestamp": "2026-10-01 00:11:24"
+        },
+        {
+          "src": "13_hành lang t8.4(cần sửa lại).png",
+          "title": "hành lang t8.4(cần sửa lại)",
+          "timestamp": "2026-10-01 00:13:26"
+        },
+        {
+          "src": "14_hành lang t8.5(cần sửa lại).png",
+          "title": "hành lang t8.5(cần sửa lại)",
+          "timestamp": "2026-10-01 00:16:36"
+        },
+        {
+          "src": "08_cầu thang, hành lang t8-9-10.2.png",
+          "title": "cầu thang, hành lang t8-9-10.2",
+          "timestamp": "2026-10-01 00:19:02"
+        },
+        {
+          "src": "07_cầu thang 7,5-8-9.2.png",
+          "title": "cầu thang 7,5-8-9.2",
+          "timestamp": "2026-10-01 00:21:48"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Tầng 9",
+      "images": [
+        {
+          "src": "17_cầu thang, hành lang t9-8-10.1(cần sửa lại).png",
+          "title": "cầu thang, hành lang t9-8-10.1(cần sửa lại)",
+          "timestamp": "2026-09-30 23:26:06"
+        },
+        {
+          "src": "15_cầu thang 8,5-9-10.1.png",
+          "title": "cầu thang 8,5-9-10.1",
+          "timestamp": "2026-09-30 23:29:12"
+        },
+        {
+          "src": "19_hành lang t9.1.png",
+          "title": "hành lang t9.1",
+          "timestamp": "2026-09-30 23:32:02"
+        },
+        {
+          "src": "20_hành lang t9.2.png",
+          "title": "hành lang t9.2",
+          "timestamp": "2026-09-30 23:34:22"
+        },
+        {
+          "src": "21_hành lang t9.3.png",
+          "title": "hành lang t9.3",
+          "timestamp": "2026-09-30 23:36:50"
+        },
+        {
+          "src": "22_hành lang t9.4(cần sửa lại).png",
+          "title": "hành lang t9.4(cần sửa lại)",
+          "timestamp": "2026-09-30 23:39:20"
+        },
+        {
+          "src": "23_hành lang t9.5(cần sửa lại).png",
+          "title": "hành lang t9.5(cần sửa lại)",
+          "timestamp": "2026-09-30 23:41:38"
+        },
+        {
+          "src": "18_cầu thang, hành lang t9-8-10.2(cần sửa lại).png",
+          "title": "cầu thang, hành lang t9-8-10.2(cần sửa lại)",
+          "timestamp": "2026-09-30 23:45:48"
+        },
+        {
+          "src": "16_cầu thang t8.5-9-10.2.png",
+          "title": "cầu thang t8.5-9-10.2",
+          "timestamp": "2026-09-30 23:51:36"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Tầng 10",
+      "images": [
+        {
+          "src": "24_cầu thang, hành lang t10-9-11.1(cần sửa lại).png",
+          "title": "cầu thang, hành lang t10-9-11.1(cần sửa lại)",
+          "timestamp": "2026-09-30 23:05:08"
+        },
+        {
+          "src": "26_hành lang t10.1.png",
+          "title": "hành lang t10.1",
+          "timestamp": "2026-09-30 23:07:46"
+        },
+        {
+          "src": "27_hành lang t10.2(cần sửa lại nhẹ).png",
+          "title": "hành lang t10.2(cần sửa lại nhẹ)",
+          "timestamp": "2026-09-30 23:10:14"
+        },
+        {
+          "src": "28_hành lang t10.3(cần sửa lại nhẹ).png",
+          "title": "hành lang t10.3(cần sửa lại nhẹ)",
+          "timestamp": "2026-09-30 23:12:10"
+        },
+        {
+          "src": "29_hành lang t10.4(cần sửa lại nhẹ).png",
+          "title": "hành lang t10.4(cần sửa lại nhẹ)",
+          "timestamp": "2026-09-30 23:14:38"
+        },
+        {
+          "src": "30_hành lang t10.5(cần sửa lại nhẹ).png",
+          "title": "hành lang t10.5(cần sửa lại nhẹ)",
+          "timestamp": "2026-09-30 23:17:16"
+        },
+        {
+          "src": "25_cầu thang, hành lang t10-9-11.2(cần sửa lại).png",
+          "title": "cầu thang, hành lang t10-9-11.2(cần sửa lại)",
+          "timestamp": "2026-09-30 23:19:54"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Tầng 11",
+      "images": [
+        {
+          "src": "31_cầu thang, hàng lang t11-12-13.1(cần sửa lại).png",
+          "title": "cầu thang, hàng lang t11-12-13.1(cần sửa lại)",
+          "timestamp": "2026-09-30 22:37:30"
+        },
+        {
+          "src": "33_hành lang t11.1.png",
+          "title": "hành lang t11.1",
+          "timestamp": "2026-09-30 22:39:48"
+        },
+        {
+          "src": "34_hành lang t11.2.png",
+          "title": "hành lang t11.2",
+          "timestamp": "2026-09-30 22:42:24"
+        },
+        {
+          "src": "35_hành lang t11.3(cần sửa lại).png",
+          "title": "hành lang t11.3(cần sửa lại)",
+          "timestamp": "2026-09-30 22:44:30"
+        },
+        {
+          "src": "36_hành lang t11.4(cần sửa lại).png",
+          "title": "hành lang t11.4(cần sửa lại)",
+          "timestamp": "2026-09-30 22:46:34"
+        },
+        {
+          "src": "37_hành lang t11.5(cần sửa lại).png",
+          "title": "hành lang t11.5(cần sửa lại)",
+          "timestamp": "2026-09-30 22:50:38"
+        },
+        {
+          "src": "32_cầu thang, hàng lang t11.2(cần sửa lại).png",
+          "title": "cầu thang, hàng lang t11.2(cần sửa lại)",
+          "timestamp": "2026-09-30 22:59:40"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Tầng 12",
+      "images": [
+        {
+          "src": "38_cầu thang, hàng lang t12-13-11.1(cần sửa lại).png",
+          "title": "cầu thang, hàng lang t12-13-11.1(cần sửa lại)",
+          "timestamp": "2026-09-30 22:01:30"
+        },
+        {
+          "src": "39_hành lang t12.1.png",
+          "title": "hành lang t12.1",
+          "timestamp": "2026-09-30 22:05:22"
+        },
+        {
+          "src": "40_hành lang t12.2.png",
+          "title": "hành lang t12.2",
+          "timestamp": "2026-09-30 22:07:58"
+        },
+        {
+          "src": "41_hành lang t12.3.png",
+          "title": "hành lang t12.3",
+          "timestamp": "2026-09-30 22:14:24"
+        },
+        {
+          "src": "42_hành lang t12.4.png",
+          "title": "hành lang t12.4",
+          "timestamp": "2026-09-30 22:16:44"
+        },
+        {
+          "src": "43_hành lang t12.5(cần sửa lại).png",
+          "title": "hành lang t12.5(cần sửa lại)",
+          "timestamp": "2026-09-30 22:22:44"
+        },
+        {
+          "src": "44_hành lang, cầu thang t12-13-11.2.png",
+          "title": "hành lang, cầu thang t12-13-11.2",
+          "timestamp": "2026-09-30 22:25:00"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "Tầng 13",
+      "images": [
+        {
+          "src": "05_6.png",
+          "title": "6",
+          "timestamp": "2026-10-03 11:38:50"
+        },
+        {
+          "src": "04_5.png",
+          "title": "5",
+          "timestamp": "2026-10-03 11:42:06"
+        },
+        {
+          "src": "03_4.png",
+          "title": "4",
+          "timestamp": "2026-10-03 11:44:20"
+        },
+        {
+          "src": "02_3.png",
+          "title": "3",
+          "timestamp": "2026-10-03 11:46:20"
+        },
+        {
+          "src": "01_2.png",
+          "title": "2",
+          "timestamp": "2026-10-03 11:48:34"
+        },
+        {
+          "src": "00_1.png",
+          "title": "1",
+          "timestamp": "2026-10-03 11:53:56"
+        }
+      ]
+    }
+  ]
+}

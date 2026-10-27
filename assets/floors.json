@@ -1,0 +1,478 @@
+[
+  {
+    "number": 1,
+    "name": "Tầng 1",
+    "kicker": "FLOOR 01",
+    "desc": "25 ảnh panorama · Sắp xếp theo thời gian tệp.",
+    "images": [
+      {
+        "src": "assets/floors/uploaded_tang1/01.jpg",
+        "title": "Ảnh 1",
+        "display": "Ảnh 1",
+        "timestamp": "20260930"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/02.jpg",
+        "title": "Ảnh 2",
+        "display": "Ảnh 2",
+        "timestamp": "20261001"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/03.jpg",
+        "title": "Ảnh 3",
+        "display": "Ảnh 3",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/04.jpg",
+        "title": "Ảnh 4",
+        "display": "Ảnh 4",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/05.jpg",
+        "title": "Ảnh 5",
+        "display": "Ảnh 5",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/06.jpg",
+        "title": "Ảnh 6",
+        "display": "Ảnh 6",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/07.jpg",
+        "title": "Ảnh 7",
+        "display": "Ảnh 7",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/08.jpg",
+        "title": "Ảnh 8",
+        "display": "Ảnh 8",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/09.jpg",
+        "title": "Ảnh 9",
+        "display": "Ảnh 9",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/10.jpg",
+        "title": "Ảnh 10",
+        "display": "Ảnh 10",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/11.jpg",
+        "title": "Ảnh 11",
+        "display": "Ảnh 11",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/12.jpg",
+        "title": "Ảnh 12",
+        "display": "Ảnh 12",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/13.jpg",
+        "title": "Ảnh 13",
+        "display": "Ảnh 13",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/14.jpg",
+        "title": "Ảnh 14",
+        "display": "Ảnh 14",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/15.jpg",
+        "title": "Ảnh 15",
+        "display": "Ảnh 15",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/16.jpg",
+        "title": "Ảnh 16",
+        "display": "Ảnh 16",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/17.jpg",
+        "title": "Ảnh 17",
+        "display": "Ảnh 17",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/18.jpg",
+        "title": "Ảnh 18",
+        "display": "Ảnh 18",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/19.jpg",
+        "title": "Ảnh 19",
+        "display": "Ảnh 19",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/20.jpg",
+        "title": "Ảnh 20",
+        "display": "Ảnh 20",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/21.jpg",
+        "title": "Ảnh 21",
+        "display": "Ảnh 21",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/22.jpg",
+        "title": "Ảnh 22",
+        "display": "Ảnh 22",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/23.jpg",
+        "title": "Ảnh 23",
+        "display": "Ảnh 23",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/24.jpg",
+        "title": "Ảnh 24",
+        "display": "Ảnh 24",
+        "timestamp": "20261002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang1/25.jpg",
+        "title": "Ảnh 25",
+        "display": "Ảnh 25",
+        "timestamp": "20261002"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "name": "Tầng 8",
+    "kicker": "FLOOR 08",
+    "desc": "9 ảnh panorama · Sắp xếp theo thời gian tệp.",
+    "images": [
+      {
+        "src": "assets/floors/uploaded_tang8/01.png",
+        "title": "Ảnh 1",
+        "display": "Ảnh 1",
+        "timestamp": "001"
+      },
+      {
+        "src": "assets/floors/uploaded_tang8/02.png",
+        "title": "Ảnh 2",
+        "display": "Ảnh 2",
+        "timestamp": "002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang8/03.png",
+        "title": "Ảnh 3",
+        "display": "Ảnh 3",
+        "timestamp": "003"
+      },
+      {
+        "src": "assets/floors/uploaded_tang8/04.png",
+        "title": "Ảnh 4",
+        "display": "Ảnh 4",
+        "timestamp": "004"
+      },
+      {
+        "src": "assets/floors/uploaded_tang8/05.png",
+        "title": "Ảnh 5",
+        "display": "Ảnh 5",
+        "timestamp": "005"
+      },
+      {
+        "src": "assets/floors/uploaded_tang8/06.png",
+        "title": "Ảnh 6",
+        "display": "Ảnh 6",
+        "timestamp": "006"
+      },
+      {
+        "src": "assets/floors/uploaded_tang8/07.png",
+        "title": "Ảnh 7",
+        "display": "Ảnh 7",
+        "timestamp": "007"
+      },
+      {
+        "src": "assets/floors/uploaded_tang8/08.png",
+        "title": "Ảnh 8",
+        "display": "Ảnh 8",
+        "timestamp": "008"
+      },
+      {
+        "src": "assets/floors/uploaded_tang8/09.png",
+        "title": "Ảnh 9",
+        "display": "Ảnh 9",
+        "timestamp": "009"
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "name": "Tầng 9",
+    "kicker": "FLOOR 09",
+    "desc": "9 ảnh panorama · Sắp xếp theo thời gian tệp.",
+    "images": [
+      {
+        "src": "assets/floors/uploaded_tang9/01.png",
+        "title": "Ảnh 1",
+        "display": "Ảnh 1",
+        "timestamp": "001"
+      },
+      {
+        "src": "assets/floors/uploaded_tang9/02.png",
+        "title": "Ảnh 2",
+        "display": "Ảnh 2",
+        "timestamp": "002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang9/03.png",
+        "title": "Ảnh 3",
+        "display": "Ảnh 3",
+        "timestamp": "003"
+      },
+      {
+        "src": "assets/floors/uploaded_tang9/04.png",
+        "title": "Ảnh 4",
+        "display": "Ảnh 4",
+        "timestamp": "004"
+      },
+      {
+        "src": "assets/floors/uploaded_tang9/05.png",
+        "title": "Ảnh 5",
+        "display": "Ảnh 5",
+        "timestamp": "005"
+      },
+      {
+        "src": "assets/floors/uploaded_tang9/06.png",
+        "title": "Ảnh 6",
+        "display": "Ảnh 6",
+        "timestamp": "006"
+      },
+      {
+        "src": "assets/floors/uploaded_tang9/07.png",
+        "title": "Ảnh 7",
+        "display": "Ảnh 7",
+        "timestamp": "007"
+      },
+      {
+        "src": "assets/floors/uploaded_tang9/08.png",
+        "title": "Ảnh 8",
+        "display": "Ảnh 8",
+        "timestamp": "008"
+      },
+      {
+        "src": "assets/floors/uploaded_tang9/09.png",
+        "title": "Ảnh 9",
+        "display": "Ảnh 9",
+        "timestamp": "009"
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "name": "Tầng 10",
+    "kicker": "FLOOR 10",
+    "desc": "7 ảnh panorama · Sắp xếp theo thời gian tệp.",
+    "images": [
+      {
+        "src": "assets/floors/uploaded_tang10/01.png",
+        "title": "Ảnh 1",
+        "display": "Ảnh 1",
+        "timestamp": "001"
+      },
+      {
+        "src": "assets/floors/uploaded_tang10/02.png",
+        "title": "Ảnh 2",
+        "display": "Ảnh 2",
+        "timestamp": "002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang10/03.png",
+        "title": "Ảnh 3",
+        "display": "Ảnh 3",
+        "timestamp": "003"
+      },
+      {
+        "src": "assets/floors/uploaded_tang10/04.png",
+        "title": "Ảnh 4",
+        "display": "Ảnh 4",
+        "timestamp": "004"
+      },
+      {
+        "src": "assets/floors/uploaded_tang10/05.png",
+        "title": "Ảnh 5",
+        "display": "Ảnh 5",
+        "timestamp": "005"
+      },
+      {
+        "src": "assets/floors/uploaded_tang10/06.png",
+        "title": "Ảnh 6",
+        "display": "Ảnh 6",
+        "timestamp": "006"
+      },
+      {
+        "src": "assets/floors/uploaded_tang10/07.png",
+        "title": "Ảnh 7",
+        "display": "Ảnh 7",
+        "timestamp": "007"
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "name": "Tầng 11",
+    "kicker": "FLOOR 11",
+    "desc": "7 ảnh panorama · Sắp xếp theo thời gian tệp.",
+    "images": [
+      {
+        "src": "assets/floors/uploaded_tang11/01.png",
+        "title": "Ảnh 1",
+        "display": "Ảnh 1",
+        "timestamp": "001"
+      },
+      {
+        "src": "assets/floors/uploaded_tang11/02.png",
+        "title": "Ảnh 2",
+        "display": "Ảnh 2",
+        "timestamp": "002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang11/03.png",
+        "title": "Ảnh 3",
+        "display": "Ảnh 3",
+        "timestamp": "003"
+      },
+      {
+        "src": "assets/floors/uploaded_tang11/04.png",
+        "title": "Ảnh 4",
+        "display": "Ảnh 4",
+        "timestamp": "004"
+      },
+      {
+        "src": "assets/floors/uploaded_tang11/05.png",
+        "title": "Ảnh 5",
+        "display": "Ảnh 5",
+        "timestamp": "005"
+      },
+      {
+        "src": "assets/floors/uploaded_tang11/06.png",
+        "title": "Ảnh 6",
+        "display": "Ảnh 6",
+        "timestamp": "006"
+      },
+      {
+        "src": "assets/floors/uploaded_tang11/07.png",
+        "title": "Ảnh 7",
+        "display": "Ảnh 7",
+        "timestamp": "007"
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "name": "Tầng 12",
+    "kicker": "FLOOR 12",
+    "desc": "7 ảnh panorama · Sắp xếp theo thời gian tệp.",
+    "images": [
+      {
+        "src": "assets/floors/uploaded_tang12/01.png",
+        "title": "Ảnh 1",
+        "display": "Ảnh 1",
+        "timestamp": "001"
+      },
+      {
+        "src": "assets/floors/uploaded_tang12/02.png",
+        "title": "Ảnh 2",
+        "display": "Ảnh 2",
+        "timestamp": "002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang12/03.png",
+        "title": "Ảnh 3",
+        "display": "Ảnh 3",
+        "timestamp": "003"
+      },
+      {
+        "src": "assets/floors/uploaded_tang12/04.png",
+        "title": "Ảnh 4",
+        "display": "Ảnh 4",
+        "timestamp": "004"
+      },
+      {
+        "src": "assets/floors/uploaded_tang12/05.png",
+        "title": "Ảnh 5",
+        "display": "Ảnh 5",
+        "timestamp": "005"
+      },
+      {
+        "src": "assets/floors/uploaded_tang12/06.png",
+        "title": "Ảnh 6",
+        "display": "Ảnh 6",
+        "timestamp": "006"
+      },
+      {
+        "src": "assets/floors/uploaded_tang12/07.png",
+        "title": "Ảnh 7",
+        "display": "Ảnh 7",
+        "timestamp": "007"
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "name": "Tầng 13",
+    "kicker": "FLOOR 13",
+    "desc": "6 ảnh panorama · Sắp xếp theo thời gian tệp.",
+    "images": [
+      {
+        "src": "assets/floors/uploaded_tang13/01.png",
+        "title": "Ảnh 1",
+        "display": "Ảnh 1",
+        "timestamp": "001"
+      },
+      {
+        "src": "assets/floors/uploaded_tang13/02.png",
+        "title": "Ảnh 2",
+        "display": "Ảnh 2",
+        "timestamp": "002"
+      },
+      {
+        "src": "assets/floors/uploaded_tang13/03.png",
+        "title": "Ảnh 3",
+        "display": "Ảnh 3",
+        "timestamp": "003"
+      },
+      {
+        "src": "assets/floors/uploaded_tang13/04.png",
+        "title": "Ảnh 4",
+        "display": "Ảnh 4",
+        "timestamp": "004"
+      },
+      {
+        "src": "assets/floors/uploaded_tang13/05.png",
+        "title": "Ảnh 5",
+        "display": "Ảnh 5",
+        "timestamp": "005"
+      },
+      {
+        "src": "assets/floors/uploaded_tang13/06.png",
+        "title": "Ảnh 6",
+        "display": "Ảnh 6",
+        "timestamp": "006"
+      }
+    ]
+  }
+]
